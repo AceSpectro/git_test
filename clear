@@ -1,0 +1,23 @@
+[33mcommit e9900c6a1e716033bb44ca2fab60f3ffd6b41192[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Justin Smith <jmsjustin@gmail.com>
+Date:   Mon Oct 30 10:43:51 2023 -0400
+
+    Add hello_world.txt
+
+[33mcommit 3879ebc0d91f1618bfdf4aac44fc2df95be24a3e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Justin Smith <jmsjustin@gmail.com>
+Date:   Fri Oct 20 16:15:04 2023 -0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit c0bd12bef595b88acd6f9e681f02d692c90760b8[m
+Author: Justin Smith <jmsjustin@gmail.com>
+Date:   Fri Oct 20 16:00:47 2023 -0400
+
+    Add hello_world.txt
+
+[33mcommit 7d4767fc6872dde85df48c250c514b038fa5e1bb[m
+Author: Justin Smith <121686905+AceSpectro@users.noreply.github.com>
+Date:   Fri Oct 20 15:52:13 2023 -0400
+
+    Initial commit
